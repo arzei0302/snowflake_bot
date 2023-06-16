@@ -1,0 +1,5 @@
+django 3.2.7
+telebot
+requests
+os
+djangorestframework
